@@ -1,0 +1,9 @@
+C:\Users\cg2lab\source\repos\Chat_client\bin\Debug\Chat_client.exe.config
+C:\Users\cg2lab\source\repos\Chat_client\bin\Debug\Chat_client.exe
+C:\Users\cg2lab\source\repos\Chat_client\bin\Debug\Chat_client.pdb
+C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.Properties.Resources.resources
+C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.csproj.GenerateResource.cache
+C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.exe
+C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.pdb
+C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.Chatclient.resources
+C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.csprojAssemblyReference.cache
