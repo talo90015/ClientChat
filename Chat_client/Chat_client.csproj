@@ -52,10 +52,19 @@
     <Compile Include="Chatclient.Designer.cs">
       <DependentUpon>Chatclient.cs</DependentUpon>
     </Compile>
+    <Compile Include="ClientChat_from.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientChat_from.Designer.cs">
+      <DependentUpon>ClientChat_from.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Chatclient.resx">
       <DependentUpon>Chatclient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientChat_from.resx">
+      <DependentUpon>ClientChat_from.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

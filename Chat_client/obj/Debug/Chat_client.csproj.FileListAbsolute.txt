@@ -7,3 +7,4 @@ C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.exe
 C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.pdb
 C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.Chatclient.resources
 C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.csprojAssemblyReference.cache
+C:\Users\cg2lab\source\repos\Chat_client\obj\Debug\Chat_client.ClientChat_from.resources
